@@ -1,48 +1,232 @@
 {
-  "movies":[
+  "movies": [
     {
-      "title":"The Shawshank Redemption",
-      "director":{
-        "firstName":"Frank",
-        "lastName":"Darabont"
+      "title": "The Shawshank Redemption",
+      "director": {
+        "firstName": "Frank",
+        "lastName": "Darabont"
       },
-      "genre":"DRAMA",
-      "date":"1994",
-      "actors":[
+      "genre": "DRAMA",
+      "date": "1994",
+      "actors": [
         {
-          "firstName":"Tim",
-          "lastName":"Robbins"
+          "firstName": "Tim",
+          "lastName": "Robbins"
         },
         {
-          "firstName":"Morgan",
-          "lastName":"Freeman"
+          "firstName": "Morgan",
+          "lastName": "Freeman"
         },
         {
-          "firstName":"Bob",
-          "lastName":"Gunton"
+          "firstName": "Bob",
+          "lastName": "Gunton"
         }
       ]
     },
     {
-      "title":"Seven",
-      "director":{
-        "firstName":"David",
-        "lastName":"Fincher"
+      "title": "Seven",
+      "director": {
+        "firstName": "David",
+        "lastName": "Fincher"
       },
-      "genre":"THRILLER",
-      "date":"1995",
-      "actors":[
+      "genre": "THRILLER",
+      "date": "1995",
+      "actors": [
         {
-          "firstName":"Morgan",
-          "lastName":"Freeman"
+          "firstName": "Morgan",
+          "lastName": "Freeman"
         },
         {
-          "firstName":"Brad",
-          "lastName":"Pitt"
+          "firstName": "Brad",
+          "lastName": "Pitt"
         },
         {
-          "firstName":"Gwyneth",
-          "lastName":"Paltrow"
+          "firstName": "Gwyneth",
+          "lastName": "Paltrow"
+        }
+      ]
+    },
+    {
+      "title": "Mr. & Mrs. Smith",
+      "director": {
+        "firstName": "Doug",
+        "lastName": "Liman"
+      },
+      "genre": "ACTION",
+      "date": "2005",
+      "actors": [
+        {
+          "firstName": "Angelina",
+          "lastName": "Jolie"
+        },
+        {
+          "firstName": "Brad",
+          "lastName": "Pitt"
+        },
+        {
+          "firstName": "Adam",
+          "lastName": "Brody"
+        }
+      ]
+    },
+    {
+      "title": "Maleficent",
+      "director": {
+        "firstName": "Robert",
+        "lastName": "Stromberg"
+      },
+      "genre": "FANTASY",
+      "date": "2014",
+      "actors": [
+        {
+          "firstName": "Angelina",
+          "lastName": "Jolie"
+        },
+        {
+          "firstName": "Elle",
+          "lastName": "Fanning"
+        },
+        {
+          "firstName": "Sharlto",
+          "lastName": "Copley"
+        }
+      ]
+    },
+    {
+      "title": "The Notebook",
+      "director": {
+        "firstName": "Nick",
+        "lastName": "Cassavetes"
+      },
+      "genre": "MELODRAMA",
+      "date": "2004",
+      "actors": [
+        {
+          "firstName": "Ryan",
+          "lastName": "Gosling"
+        },
+        {
+          "firstName": "Rachel",
+          "lastName": "McAdams"
+        },
+        {
+          "firstName": "Sam",
+          "lastName": "Shepard"
+        }
+      ]
+    },
+    {
+      "title": "La La Land",
+      "director": {
+        "firstName": "Damien",
+        "lastName": "Chazelle"
+      },
+      "genre": "MUSICAL",
+      "date": "2016",
+      "actors": [
+        {
+          "firstName": "Ryan",
+          "lastName": "Gosling"
+        },
+        {
+          "firstName": "Emma",
+          "lastName": "Stone"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Legend"
+        }
+      ]
+    },
+    {
+      "title": "The Vow",
+      "director": {
+        "firstName": "Michael",
+        "lastName": "Sucsy"
+      },
+      "genre": "MELODRAMA",
+      "date": "2012",
+      "actors": [
+        {
+          "firstName": "Rachel",
+          "lastName": "McAdams"
+        },
+        {
+          "firstName": "Channing",
+          "lastName": "Tatum"
+        },
+        {
+          "firstName": "Sam",
+          "lastName": "Neill"
+        }
+      ]
+    },
+    {
+      "title": "Cruella",
+      "director": {
+        "firstName": "Craig",
+        "lastName": "Gillespie"
+      },
+      "genre": "CRIMINAL COMEDY",
+      "date": "2021",
+      "actors": [
+        {
+          "firstName": "Emma",
+          "lastName": "Stone"
+        },
+        {
+          "firstName": "Emma",
+          "lastName": "Thompson"
+        },
+        {
+          "firstName": "Joel",
+          "lastName": "Fry"
+        }
+      ]
+    },
+    {
+      "title": "Beauty and the Beast",
+      "director": {
+        "firstName": "Bill",
+        "lastName": "Condon"
+      },
+      "genre": "MUSICAL",
+      "date": "2017",
+      "actors": [
+        {
+          "firstName": "Emma",
+          "lastName": "Watson"
+        },
+        {
+          "firstName": "Dan",
+          "lastName": "Stevens"
+        },
+        {
+          "firstName": "Luke",
+          "lastName": "Evans"
+        }
+      ]
+    },
+    {
+      "title": "Black Swan",
+      "director": {
+        "firstName": "Darren",
+        "lastName": "Aronofsky"
+      },
+      "genre": "DRAMA",
+      "date": "2010",
+      "actors": [
+        {
+          "firstName": "Natalie",
+          "lastName": "Portman"
+        },
+        {
+          "firstName": "Mila",
+          "lastName": "Kunis"
+        },
+        {
+          "firstName": "Vincent",
+          "lastName": "Cassel"
         }
       ]
     }
